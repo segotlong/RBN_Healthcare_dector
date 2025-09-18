@@ -33,5 +33,5 @@ Library Integration
 - Normal body temperature: 36.5°C – 37.5°C
 - Below 36.5°C → device shows Low Temperature Alert
 - Above 37.5°C → device shows Fever Alert
-<img width="942" height="763" alt="picture 39 " src="https://github.com/user-attachments/assets/3bfbbb52-bdf3-468d-9072-ef8f605e4ef6" />
+- <img width="942" height="763" alt="picture 39 " src="https://github.com/user-attachments/assets/3bfbbb52-bdf3-468d-9072-ef8f605e4ef6" />
 
