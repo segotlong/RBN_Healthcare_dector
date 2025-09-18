@@ -17,19 +17,19 @@ components
 
 Software Development:
 Library Integration
-You included essential libraries:
+- You included essential libraries:
 - WiFi.h for internet connectivity.
 - HTTPClient.h for sending data to the server (ThingSpeak).
 - PulseSensorPlayground.h for pulse detection.
 - DFRobot_MLX90614.h for temperature readings.
 - LiquidCrystal_I2C.h for LCD display.
 <img width="642" height="212" alt="picture 38" src="https://github.com/user-attachments/assets/a8bde3ff-bf24-416c-873a-05c1e0dbb148" />:
- Threshold Settings:
+ - Threshold Settings:
  - Pulse Rate Thresholds
 - Normal resting range: 60 – 100 BPM
 - Below 60 BPM → device shows Low Pulse Alert
 - Above 100 BPM → device shows High Pulse Alert
-Temperature Thresholds:
+- Temperature Thresholds:
 - Normal body temperature: 36.5°C – 37.5°C
 - Below 36.5°C → device shows Low Temperature Alert
 - Above 37.5°C → device shows Fever Alert
